@@ -1,0 +1,6 @@
+@MemoryCache_HostAddress = http://localhost:5159
+
+GET {{MemoryCache_HostAddress}}/Configurations/
+Accept: application/json
+
+###
